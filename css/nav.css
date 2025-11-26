@@ -1,0 +1,45 @@
+.nav-bg{
+	background-image: url(../images/bg.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 80vh;
+}
+		.navbar{
+			background-image: linear-gradient(to right, purple 50%, blue);
+		}
+		.nav-link:hover{
+			background-color: black;
+		}
+		form .form-control:active{
+			background-color: black;
+			box-shadow: brown;
+		}
+		.ul-font{
+			font-size: 20px;
+		}
+.contact-btn{
+	background-image: linear-gradient(to left, purple, blue);
+	opacity: 0.6;
+}
+.contact-btn:hover{
+	opacity: 1;
+}
+
+
+
+
+@media only screen and (max-width: 400px){
+	.animated-text{
+		font-size: 25px;
+	}	
+}
+@media only screen and (max-width: 350px){
+	.animated-text{
+		font-size: 20px;
+	}	
+}
+@media only screen and (max-width: 250px){
+	.animated-text{
+		font-size: 17px;
+	}	
+}

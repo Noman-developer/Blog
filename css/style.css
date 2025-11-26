@@ -1,0 +1,9 @@
+.security{
+	background-image: url(../images/bubbles.webp);
+	background-size: cover;
+	background-position: center;
+	height: 80vh !important;
+}
+.card:hover{
+	box-shadow: 20px;
+}
