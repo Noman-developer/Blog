@@ -3,7 +3,7 @@
 
 <div style="background-image: linear-gradient(to right, purple 50%, blue); padding: 3%; color: white;">
 	<h1 class="text-center">About us</h1>   
-</div>
+</div> 
 <div class="container p-5" style="min-height: 70vh; font-size: 20px;">
 	<p>
 		Welcome to <strong>eBlogs</strong>, your go-to destination for health and beauty tips! Our team of expert writers and bloggers is dedicated to providing you with the latest and most reliable information on how to look and feel your best, both inside and out.
@@ -33,4 +33,5 @@
 
 
 <?php include'headers/copyright.php' ?>
+
 <?php include'headers/footer.php' ?>
