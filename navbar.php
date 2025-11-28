@@ -1,6 +1,6 @@
 <head>
-	<link rel="stylesheet" href="css/nav.css">
-	<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+	 <link rel="stylesheet" href="css/nav.css">
+	 <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 </head>
 
 <div class="nav-bg overflow-auto">
@@ -129,3 +129,4 @@
         document.body.appendChild(css);
     };
 </script>
+
